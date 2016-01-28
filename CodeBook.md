@@ -39,3 +39,4 @@ The run_analysis.R script performs the following steps to clean the data:
   - To produce the final output, cleandata is grouped by subject then activity and saved as groupedcleandata.  The data is then           summarized by mean for each subject and activity for each of 86 measurements.
   - write.table is used to output the final file "tidydata.txt"
 
+# Additional details are given in comments throughout the run_analysis.R script.
